@@ -1,2 +1,3 @@
 # Blog_Website
 A Web Project
+this is not a dynamic one... THis is just a skeleton. Will try to upload the dynamic one as well...
